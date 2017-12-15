@@ -1,0 +1,20 @@
+label.form-label {
+    text-align: right;
+    line-height: 34px;
+}
+
+.bs-callout{
+    padding: 20px;
+    margin: 10px 0;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+}
+
+.bs-callout-exp{
+    border-left-color:rgb(92, 184, 92);;
+}
+
+.bs-callout-calc{
+    border-left-color:rgb(236, 151, 31);
+}

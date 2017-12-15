@@ -1,0 +1,3 @@
+-+-+-+-+-+-+-+-+-+-  CCErrorLog  -+-+-+-+-+-+-+-+-+-
+ccWarning: in FUNCTION XLOGS::CalcLogS
+No TTDB found or supplied, XLOGS works in XLOGS-AA mode.

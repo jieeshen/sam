@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--PLEASE DO NOT MODIFY THIS FILE AND BE AWARE THAT THE FILE CONTAINS CONFIDENTIAL INFORMATION.-->
+<ChemAxon>
+<License>
+<Field Name="Software" Value="Marvin Applets"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFC/+ghn2tiZ099wW8VStUTrCq8w4AhR1YK7FbXk3Xi2bE1jufmcD/LpLfg=="/>
+</License>
+<License>
+<Field Name="Software" Value="Marvin Beans"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFACfZL4RKRDQa/Edt4hYH4wPXusQAhQPR2enSt/KZpGsgqB5TfnK0bckwQ=="/>
+</License>
+<License>
+<Field Name="Software" Value="Instant JChem"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="B/S/P/E" Value="Standard"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFFQGFOTfgHFGHWGJVpfA34Mt5bpnAhRFuJ69WLY/d2UjVV1yxvEtCintmA=="/>
+</License>
+<License>
+<Field Name="Software" Value="JChem Base"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Restriction Name="Search/Min" Value="Unlimited"/>
+<Signature Value="MC0CFHiDvvWwzR8cQT/t6bBH7Onx2h4YAhUAiNMmLLPe3kAlaFe7EjUKZA5xBbA="/>
+</License>
+<License>
+<Field Name="Software" Value="JChem Cartridge"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MC0CFEfThtJ9TRawzs9XoCyBuU3zqQgYAhUAiHbg2HI4GFtjdCSAWnMhcJJTZyg="/>
+</License>
+<License>
+<Field Name="Software" Value="Standardizer"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="B/S/P/E" Value="Standard"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFGytXPKpXxA2RQ4PHceEVtGw6/iQAhRqEnbOwJJYf1DUxOiGyE61RAjIIQ=="/>
+</License>
+<License>
+<Field Name="Software" Value="Screen"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFGVxi5Wf9LW42QY72J4i/FJnB0DZAhRF7oA4b23qIoAGMKTg4z6+SrAy7A=="/>
+</License>
+<License>
+<Field Name="Software" Value="Reactor"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFG5PvPgfzOgXIEr7F/lKHef0/ozwAhR3dGCcdYOZ0ugASVmhj1RnJX4ZVQ=="/>
+</License>
+<License>
+<Field Name="Software" Value="JKlustor"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="B/S/P/E" Value="Standard"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFB1vp/Kc0/CUjkYUr6qEcy4WOEtaAhRhMXOEVmYxEBszKqyVDi/r90cRNg=="/>
+</License>
+<License>
+<Field Name="Software" Value="Metabolizer"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFH85Rb7SaTg72NHL6fA+KuBYKp5cAhQvdl3dvYkb4TIj5PQmnYxAMLBLeQ=="/>
+</License>
+<License>
+<Field Name="Software" Value="Markush Search"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MC0CFQCJ17j9ABITisNxH/VIx/8mxw1y+QIUIy0wWi5NJrwNcAS/xUHI5NpCyXs="/>
+</License>
+<License>
+<Field Name="Software" Value="Protonation Plugin Group"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFDrJrm8CiK5hc5V9BmxnmtbodupyAhQP2Vagq9KEds1Gry5zmKOrPUV+sA=="/>
+</License>
+<License>
+<Field Name="Software" Value="Partitioning Plugin Group"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFCQog5dGqEvnI+iXXRNtPS104W2UAhQqNJEib/1avoQRT0/0jvqOvKaMww=="/>
+</License>
+<License>
+<Field Name="Software" Value="Charge Plugin Group"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MC0CFE8uNsnxJhn53w3xzkiK0mI7XpAtAhUAhLWxecmwVHTg6MQSM1d3phE8hvQ="/>
+</License>
+<License>
+<Field Name="Software" Value="Isomers Plugin Group"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFBlx3fh8EpTOrKI46qfX1AgaUH+qAhRBEPttREqyZd10uEDYoM284o4lPw=="/>
+</License>
+<License>
+<Field Name="Software" Value="Conformation Plugin Group"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFDk0nSH8oLg/3TTq4GHSEU0nBh/XAhRbmjlajWhksphqZXywzh+Xk1+BWQ=="/>
+</License>
+<License>
+<Field Name="Software" Value="Geometry Plugin Group"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MC0CFQCDXXaKFIG8N4fc6l2/8k9U6+2dyAIUYc73/GAYT64t7m4X89AnYVcHS3I="/>
+</License>
+<License>
+<Field Name="Software" Value="Huckel Analysis Plugin"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFA/jUwkqLxVAMEpJeb2tCQX3+EPkAhQ/7XtaZgGU7QO3Vs1BXKNRgcnRyg=="/>
+</License>
+<License>
+<Field Name="Software" Value="Refractivity Plugin"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFDHN82SkdbK5yDIqX8oS0LheOiYvAhQsp8tUy7x1gh1drXscxWmZH/FzGA=="/>
+</License>
+<License>
+<Field Name="Software" Value="HBDA Plugin"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MC0CFDKQ0EUPLxXDkIEqhsevUckbsGhYAhUAgv+Lm3ptlGSJpOmsH2VHcIXVcR0="/>
+</License>
+<License>
+<Field Name="Software" Value="Markush Enumeration Plugin"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFCALGJA9ByMaPVnJ5hgKOZSAMym9AhQWgh1kwH3w162XFV+ZzEqa+Kq1aw=="/>
+</License>
+<License>
+<Field Name="Software" Value="Structure to Name Plugin"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MC0CFA2vvL5kTH2fs0r6YWLrcYA2wX8JAhUAiuC0xjXPbQRQWcI25h9R95eKom4="/>
+</License>
+<License>
+<Field Name="Software" Value="Name to Structure"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFE7VWDeBS8DlMPUbn26z+vudrI/xAhR16C/ssZz9s60bSOatfT8xG05A6g=="/>
+</License>
+<License>
+<Field Name="Software" Value="JChem for Excel"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFAYhNVoJ36hmNhSO/vWAA35GwqJZAhRdyMlKUSr5BA6IlECJCwx6mwAmjA=="/>
+</License>
+<License>
+<Field Name="Software" Value="Structure Search"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFBc+R188R9w8czR4WurtoDCp7SRRAhQ8CuDnC/bJyWQ/1QcWI8TjPtB1fA=="/>
+</License>
+<License>
+<Field Name="Software" Value="IUPAC naming plugin"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFEiuHXuADAqz1vQAFoM7lfBQQL1OAhR5XOIHTCz77hgS7kG825LFHZQhNg=="/>
+</License>
+<License>
+<Field Name="Software" Value="Calculations Pack"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MC0CFFn+rhPEczgxYHQIlWE/rcleNI32AhUAkR4sl4Bm/cZt3gP6YNuGhHIOyFw="/>
+</License>
+<License>
+<Field Name="Software" Value="Web Services Server"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFDU51S15v1G3BNke+xAtGbFsY6nYAhQ/xBPS3lLdAhBjb+lvWuTPxqbBHg=="/>
+</License>
+<License>
+<Field Name="Software" Value="Structural Frameworks Plugin"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFAuwdZ7I/SU6VTFys6a0/w7bFEpMAhRVdHS3cOTIjB+dGJwmwoGnZ2actQ=="/>
+</License>
+<License>
+<Field Name="Software" Value="Structure Checker"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MC0CFQCGbZ62K10oAXm3P3cZk3WOHLr54AIUKoYjzC/3ZXGlK0q9xmczm/Vyrqo="/>
+</License>
+<License>
+<Field Name="Software" Value="Predictor Plugin"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MC0CFC1yY3zy1yAUJuKum5LYGxaReh/gAhUAiGpy/qP8BcVODuQh+dj8LagjZCY="/>
+</License>
+<License>
+<Field Name="Software" Value="MCES"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFGKse/5/i2puViuddZONlUcYX6giAhRduoDfk3h1Lmtv8czM3cVYV4Uybw=="/>
+</License>
+<License>
+<Field Name="Software" Value="3D Alignment"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MC0CFQCEKaM61MgWpeKvHDaC41t0xPXt+QIUKiLyXMyTqcdZZAqL15RI1dWf6YY="/>
+</License>
+<License>
+<Field Name="Software" Value="3D Screen"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFCGM07xWVpNmCt2Q4Pl0Ss7OKrGpAhRC4XXZyapsQK5EVY0fV7KOyaszbw=="/>
+</License>
+<License>
+<Field Name="Software" Value="Molecular Descriptors"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MC0CFQCSha6boIfd4lsJh8q+SFVixkwoWwIUUB5AYz4RiMU+RESfdIPoyWjHSfg="/>
+</License>
+<License>
+<Field Name="Software" Value="Instant JChem VIZ"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MC0CFHZj8tBlvo+6wAE2u4t4TYoqYPWuAhUAiTK+XiG09g7Ie3VZ21kQoRjdcds="/>
+</License>
+<License>
+<Field Name="Software" Value="ECFP/FCFP"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFCmteHBOQTzqrFuEs+i3mYjTt6O9AhQaEOYM+OuitlygJRHHkFqlfskEcA=="/>
+</License>
+<License>
+<Field Name="Software" Value="Document to Structure"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFHrq81Y0J19IjfkdN0eYKOnAti08AhQl25F2M3bdXTyGt9xfWfUiQJnQAg=="/>
+</License>
+<License>
+<Field Name="Software" Value="NMR Predictor"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFCjPjmkwfAab7xxUo5+gA8x2wLoAAhQUY2AdjqTIUMZpGSwEHF/xP/b2rA=="/>
+</License>
+<License>
+<Field Name="Software" Value="JChem for Office"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFEMTBpJsFBHHIxEUAFA8fWE1LACLAhQIImjGtf4Pe2eaed5d28few39C7w=="/>
+</License>
+<License>
+<Field Name="Software" Value="Solubility Plugin"/>
+<Field Name="License Term" Value="Academic Research"/>
+<Field Name="Licensee" Value="East China University of Science and Technology"/>
+<Field Name="Number of Users" Value="1"/>
+<Field Name="Expiration Date" Value="2016-04-11"/>
+<Field Name="Support Expiration Date" Value="2016-04-11"/>
+<Field Name="Comment" Value="academic research license - autoupgraded with Solubility Plugin"/>
+<Restriction Name="Server Use" Value="Not Allowed"/>
+<Signature Value="MCwCFBR1oAhNqpDfkiZ2EaWct8ZdH8k+AhQZR7nIWZilH4UViifagYQhnRjzUg=="/>
+</License>
+</ChemAxon>
